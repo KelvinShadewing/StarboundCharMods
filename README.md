@@ -57,4 +57,12 @@ All other content is the property of their respective owners. Standard Starbound
     
     * Add scanner lore.
     
-    * Replace all instances of "sktest" with "midi" (the replacement batch file that came with the template only corrupted files by filling them with `{sktest=midi`).
+    * Make it so that when not firing, Midi's arms use the unarmed animation, and make the throwing animation actually look like throwing.
+    
+    * Fix Midi's nutbomb recipe not being unlocked from the beginning.
+    
+    * Have transphere tech active at start.
+    
+    * Create tech station graphics.
+    
+    * Find/make a new ship. 
