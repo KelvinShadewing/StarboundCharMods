@@ -12,10 +12,12 @@ All other content is the property of their respective owners. Standard Starbound
 
   Midi is a kholu from Kyrodian Legends. He includes craftable nut bombs that only cost pixels to create, and can be made without a crafting station. He also has his transphere tech, which currently can only be unlocked using admin commands. To unlock them, enter these commands:
   
-  ```/admin
+  ```
+  /admin
   /maketechavailable transphere
   /enabletech transphere
-  /admin```
+  /admin
+  ```
   
   The tech will be available to select from the tech console at the outpost. The transphere moves much faster than the distortion sphere and can jump higher. The ability to lay time bombs will be added in the future.
   
