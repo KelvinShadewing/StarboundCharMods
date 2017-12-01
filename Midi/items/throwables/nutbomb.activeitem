@@ -1,0 +1,70 @@
+{
+  "itemName" : "nutbomb",
+  "price" : 500,
+  "inventoryIcon" : "nutbomb.png",
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "Midi's default bomb.",
+  "shortdescription" : "Acorn Bomb",
+  "level" : 1,
+  "category" : "toy",
+  "itemTags" : ["toy"],
+  "animation" : "/items/active/weapons/ranged/gun.animation",
+  "animationParts" : {
+    "butt" : "",
+    "middle" : "blank.png",
+    "barrel" : "",
+    "muzzleFlash" : ""
+  },
+  "animationCustom" : {
+    "sounds" : {
+      "fire" : [ ]
+    },
+    "lights" : {
+      "muzzleFlash" : {
+        "color" : [0, 0, 0]
+      }
+    }
+  },
+  "baseOffset" : [0.0, 0.0],
+  "muzzleOffset" : [0.0, 0.0],
+  "scripts" : ["/items/active/weapons/ranged/gun.lua"],
+  "elementalType" : "physical",
+  "primaryAbility" : {
+    "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
+    "class" : "GunFire",
+    "fireTime" : 0.2,
+    "baseDps" : 50,
+    "energyUsage" : 30,
+    "inaccuracy" : 0.05,
+    "projectileCount" : 1,
+    "fireType" : "auto",
+    "projectileType" : "nutbomb",
+    "projectileParameters" : {
+      "speed" : [30, 30]
+    },
+    "stances" : {
+      "idle" : {
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "fire" : {
+        "duration" : 0.3,
+        "armRotation" : 45,
+        "weaponRotation" : 0,
+        "allowRotate" : true,
+        "allowFlip" : true
+      },
+      "cooldown" : {
+        "duration" : 0.2,
+        "armRotation" : 0,
+        "weaponRotation" : 0,
+        "allowRotate" : true,
+        "allowFlip" : true
+      }
+    }
+  },
+  "builder" : "/items/buildscripts/buildunrandweapon.lua"
+}

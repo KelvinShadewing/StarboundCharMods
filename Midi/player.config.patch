@@ -1,0 +1,3 @@
+[
+{ "op" : "add", "path" : "/defaultCodexes/midi", "value" : [ "protectorate1", "protectorate2", "mididiary" ] }
+]

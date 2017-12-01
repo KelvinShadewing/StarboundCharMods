@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/midi",
+		"value" : [
+		    "/ships/midi/midit0.structure",
+			"/ships/midi/midit1.structure",
+			"/ships/midi/midit2.structure",
+			"/ships/midi/midit3.structure",
+			"/ships/midi/midit4.structure",
+			"/ships/midi/midit5.structure",
+			"/ships/midi/midit6.structure",
+			"/ships/midi/midit7.structure",
+			"/ships/midi/midit8.structure"
+		]
+	}
+]

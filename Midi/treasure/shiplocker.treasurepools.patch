@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/midiStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 32 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "midiback" ]},
+        {"item" : [ "midihead" ]},
+        {"item" : [ "midichest" ]},
+        {"item" : [ "midipants" ]},
+        {"item" : [ "nutbomb" ]}
+      ]
+    }]]
+  }
+]
