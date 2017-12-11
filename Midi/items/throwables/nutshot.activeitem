@@ -1,14 +1,15 @@
 {
-  "itemName" : "nutbomb",
+  "itemName" : "nutshot",
   "price" : 500,
-  "inventoryIcon" : "nutbomb.png",
+  "inventoryIcon" : "nutshot.png",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Midi's default bomb.",
-  "shortdescription" : "Acorn Bomb",
+  "description" : "A dual-handed attack to increase range.",
+  "shortdescription" : "Nut Shotgun",
   "level" : 1,
   "category" : "uniqueWeapon",
   "itemTags" : ["acorn"],
+  "twoHanded" : true,
   "animation" : "/items/active/weapons/ranged/gun.animation",
   "animationParts" : {
     "butt" : "",
@@ -22,7 +23,7 @@
     },
     "lights" : {
       "muzzleFlash" : {
-        "color" : [0, 0, 0]
+        "color" : [80, 80, 80]
       }
     }
   },
@@ -34,20 +35,21 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
     "fireTime" : 0.2,
-    "baseDps" : 50,
-    "energyUsage" : 30,
+    "baseDps" : 80,
+    "energyUsage" : 50,
     "inaccuracy" : 0.05,
     "projectileCount" : 1,
     "fireType" : "auto",
-    "projectileType" : "nutbomb",
+    "projectileType" : "nutshot",
     "projectileParameters" : {
-      "speed" : [30, 30]
+      "speed" : [65, 65]
     },
     "stances" : {
       "idle" : {
         "armRotation" : 0,
         "weaponRotation" : 0,
         "allowRotate" : true,
+			  "twoHanded" : true,
         "allowFlip" : true
       },
       "fire" : {
@@ -55,13 +57,15 @@
         "armRotation" : 45,
         "weaponRotation" : 0,
         "allowRotate" : true,
+        "twoHanded" : true,
         "allowFlip" : true
       },
       "cooldown" : {
-        "duration" : 0.2,
+        "duration" : 0.7,
         "armRotation" : 0,
         "weaponRotation" : 0,
         "allowRotate" : true,
+        "twoHanded" : true,
         "allowFlip" : true
       }
     }

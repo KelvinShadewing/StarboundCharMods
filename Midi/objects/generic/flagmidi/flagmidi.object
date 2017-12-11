@@ -8,8 +8,8 @@
   "price" : 70,
   "radioMessagesOnPickup" : [ "pickupflag" ],
   
-  "description" : "The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location.",
-  "shortdescription" : "midi Flag",
+  "description" : "Meh, it works.",
+  "shortdescription" : "Midi's Flag",
   "race" : "midi",
   "apexDescription" : "A midi flag. I can use this as a waypoint for teleportation.",
   "avianDescription" : "This midi flag can be bookmarked as a destination for my ship teleporter.",
