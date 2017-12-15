@@ -2,7 +2,7 @@
   "input" : [
     { "item" : "money", "count" : 1000 },
     { "item" : "corefragmentore", "count" : 10 },
-    { "item" : "nutbomb", "count" : 2" }
+    { "item" : "nutbomb", "count" : 2 }
   ],
   "output" : {
     "item" : "nutshot",

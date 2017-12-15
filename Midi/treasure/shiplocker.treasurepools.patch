@@ -13,8 +13,6 @@
         {"item" : [ "cannedfood", 1 ]},
         {"item" : [ "midiback" ]},
         {"item" : [ "midihead" ]},
-        {"item" : [ "midichest" ]},
-        {"item" : [ "midipants" ]},
         {"item" : [ "nutbomb" ]}
       ]
     }]]
