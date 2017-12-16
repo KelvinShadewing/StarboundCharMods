@@ -1,0 +1,13 @@
+{
+	"id" : "mididiary4",
+	"title" : "Midi's Log 04",
+	"description" : "Those Cultists are All Wet.",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "You know, I thought an underwater library seemed fishy at first, but it was mostly just dank. There were these cultist guys there who's ideology I honestly cannot fathom.\n\nThey seem to think humans are the superior race in the galaxy. You know, the people with no claws, no magic, and very little in the way of natural strength and agility compared to others.\n\nI mean, not that I think less of humans or anything, cuz they got amazing brains, right?", "The thing is, when you look at the history of humans that came from Earth, it's like all they've ever cared about is finding this elusive master race, only now that aliens are in the picture, just being human is all it takes. *sigh*", "Their leader seems to know Ester. Maybe she was a protector at some point? I guess from her standpoint, things kinda make sense. I mean, the humans founded the Protectorate, and the Ruin, the big bad of the whole galaxy, targets Earth first? Yeah, I can see how that made her think she was special. Her hair's still stupid."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}

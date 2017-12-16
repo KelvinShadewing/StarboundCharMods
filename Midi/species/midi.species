@@ -3,7 +3,8 @@
 	"charCreationTooltip" : {
 	"title" : "Midi",
 	"subTitle" : "O2",
-	"description" : "A displaced Kholu from Kyroda searching the stars for a way home."
+	"description" : "A displaced Kholu from Kyroda searching the stars for a way home.",
+	"humanoidConfig" : "/species/midinoid.config"
   },
   "nameGen" : [ "/species/midimalenamegen.config:names", "/species/midifemalenamegen.config:names" ],
   "ouchNoises" : [ "/sfx/humanoid/midihurt_male1.ogg", "/sfx/humanoid/midihurt_female1.ogg" ],

@@ -10,7 +10,13 @@ All other content is the property of their respective owners. Standard Starbound
 
 * __**Midi Waffle**__
 
-  Midi is a kholu from Kyrodian Legends. He includes craftable nut bombs that only cost pixels to create, and can be made without a crafting station. He also has his transphere tech, which currently can only be unlocked using admin commands. To unlock them, enter these commands:
+  Midi is a kholu from Kyrodian Legends. He includes craftable nut bombs that cost pixels, core fragments, and elemental ingredients to create, and can be made without a crafting station.
+  
+  To play as him, install a race selection extender mod and click his face in the character creation. Set gender to male, and click the arrow next to Personality until his full body appears. (changing the graphics of every pose to his body also changes pivot positions for the arms.)
+  
+  Midi will start equipped with his jacket and pants, and his hat and tail can be found in the ship locker. These items will hide any equipment he wears, since his sprite does not fit the mold of traditional Starbound sprites.
+  
+  He also has his transphere tech, which currently cam only be unlocked using admin commands. To unlock them, enter these commands:
   
   ```
   /admin
@@ -51,7 +57,7 @@ All other content is the property of their respective owners. Standard Starbound
   
     * Add unique explosion sprites.
     
-    * Finish Midi's body sprites.
+    * Add explosion to Midi's hand when firing Nutshot.
     
     * Find a way to change arm pivot positions.
     
@@ -59,10 +65,8 @@ All other content is the property of their respective owners. Standard Starbound
     
     * Make it so that when not firing, Midi's arms use the unarmed animation, and make the throwing animation actually look like throwing.
     
-    * Fix Midi's nutbomb recipe not being unlocked from the beginning.
-    
     * Have transphere tech active at start.
     
     * Create tech station graphics.
     
-    * Find/make a new ship. 
+    * Find/make a new ship.
