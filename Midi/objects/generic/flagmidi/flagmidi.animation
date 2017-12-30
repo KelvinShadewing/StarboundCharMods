@@ -1,0 +1,44 @@
+{
+  "animatedParts" : {
+    "stateTypes" : {
+      "bodyState" : {
+        "default" : "ia",
+        "states" : {
+					"i"  :  {
+						"frames"  :  12,
+						"cycle"  :  0.75,
+						"mode"  :  "transition",
+						"transition" : "f"
+					},
+					"f"  :  {
+						"frames"  :  8,
+						"cycle"  :  0.5,
+						"mode"  :  "transition",
+						"transition" : "i"
+					}
+        }
+      }
+    },
+    "parts" : {
+      "body" : {
+        "properties" : {
+          "centered" : true
+        },
+        "partStates" : {
+          "bodyState" : {
+            "i" :{
+              "properties" : {
+                "image" : "<partImage>:i.<frame>"
+              }
+            },
+						"f" :{
+			        "properties" : {
+			          "image" : "<partImage>:f.<frame>"
+			        }
+			      }
+          }
+        }
+      }
+    }
+  }
+}

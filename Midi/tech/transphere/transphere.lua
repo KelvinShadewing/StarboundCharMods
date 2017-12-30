@@ -59,8 +59,7 @@ end
 function attemptActivation()
   if not self.active
       and not tech.parentLounging()
-      and not status.statPositive("activeMovementAbilities")
-      and status.overConsumeResource("energy", self.energyCost) then
+      and not status.statPositive("activeMovementAbilities") then
 
     local pos = transformPosition()
     if pos then
@@ -151,16 +150,7 @@ function updateRotationFrame(dt)
 end
 
 function updateTransformFade(dt)
-  if self.transformFadeTimer > 0 then
-    self.transformFadeTimer = math.max(0, self.transformFadeTimer - dt)
-    animator.setGlobalTag("ballDirectives", string.format("?fade=FFFFFFFF;%.1f", math.min(1.0, self.transformFadeTimer / (self.transformFadeTime - 0.15))))
-  elseif self.transformFadeTimer < 0 then
-    self.transformFadeTimer = math.min(0, self.transformFadeTimer + dt)
-    tech.setParentDirectives(string.format("?fade=FFFFFFFF;%.1f", math.min(1.0, -self.transformFadeTimer / (self.transformFadeTime - 0.15))))
-  else
-    animator.setGlobalTag("ballDirectives", "")
-    tech.setParentDirectives()
-  end
+  
 end
 
 function positionOffset()

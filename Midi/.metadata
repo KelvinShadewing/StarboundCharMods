@@ -1,10 +1,10 @@
 {
   "tags" : "Species",
-  "author" : "DrPvtSkittles",
-  "description" : "Basic Template to create your own race.",
-  "friendlyName" : "Skittles Basic Race Template",
+  "author" : "Kelvin SHadewing",
+  "description" : "Play as Midi from Kyrodian Legends.",
+  "friendlyName" : "Midi Waffle",
   "link" : "",
-  "name" : "Skittles Basic Race Template",
+  "name" : "Midi Waffle",
   "path" : ".",
   "steamContentId" : "",
   "version" : "1"

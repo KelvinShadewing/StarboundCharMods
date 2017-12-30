@@ -11,14 +11,14 @@
         "states" : {
           "deactivate" : {
             "frames" : 3,
-            "cycle" : 0.12,
+            "cycle" : 0.15,
             "mode" : "transition",
             "transition" : "off"
           },
           "off" : { },
           "activate" : {
             "frames" : 3,
-            "cycle" : 0.12,
+            "cycle" : 0.15,
             "mode" : "transition",
             "transition" : "on"
           },

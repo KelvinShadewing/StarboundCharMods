@@ -70,3 +70,7 @@ All other content is the property of their respective owners. Standard Starbound
     * Create tech station graphics.
     
     * Find/make a new ship.
+    
+  * **NOTES:**
+  
+    * The titaniumbar recipe was put into the species config because it didn't show up while playing as him for some reason.

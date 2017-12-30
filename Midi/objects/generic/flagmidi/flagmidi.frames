@@ -1,12 +1,19 @@
 {
   "frameGrid" : {
-    "size" : [24, 32],
-    "dimensions" : [6, 1],
+    "size" : [16, 32],
+    "dimensions" : [12, 1],
     "names" : [
-      [ "default.0", "default.1", "default.2", "default.3", "default.4", "default.5" ]
+      [ "i.0",  "i.1", "i.2", "i.3", "f.0", "f.1", "f.2", "f.3", "f.4", "f.5", "f.6", "f.7" ]
     ]
   },
   "aliases" : {
-    "default.default" : "default.0"
+    "i.4" : "ia.0",
+    "i.5" : "ia.1",
+    "i.6" : "ia.2",
+    "i.7" : "ia.3",
+    "i.8" : "ia.0",
+    "i.9" : "ia.1",
+    "i.10" : "ia.2",
+    "i.11" : "ia.3"
   }
 }
