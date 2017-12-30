@@ -23,20 +23,20 @@
   "inventoryIcon" : "flagmidiicon.png",
   "orientations" : [
     {
-      "image" : "flagmidi.png:ia.<frame>",
+      "image" : "flagmidi.png:default.<frame>",
       "flipImages" : true,
       "direction" : "left",
       "imagePosition" : [-17, 0],
-      "frames" : 6,
+      "frames" : 12,
       "animationCycle" : 1.0,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
     },
     {
-      "image" : "flagmidi.png:ia.<frame>",
+      "image" : "flagmidi.png:default.<frame>",
       "direction" : "right",
       "imagePosition" : [1, 0],
-      "frames" : 6,
+      "frames" : 12,
       "animationCycle" : 1.0,
       "spaceScan" : 0.1,
       "anchors" : [ "bottom" ]
