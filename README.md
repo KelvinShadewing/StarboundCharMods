@@ -74,3 +74,5 @@ All other content is the property of their respective owners. Standard Starbound
   * **NOTES:**
   
     * The titaniumbar recipe was put into the species config because it didn't show up while playing as him for some reason.
+    
+    * Midi's slow walk animation is broken because Starbound reverses the arm frame instead of using eight frames. I'm really not a fan of this, because I can think of other things that would be make impossible by animating like this.
