@@ -6,17 +6,7 @@
       "crewSize" : 12
     }
   },
-  "backgroundOverlays" : [
-    {
-      "image" : "midiT8.png",
-      "position" : [8.39, 1.75],
-      "fullbright" : true
-    },
-    {
-      "image" : "midiT8lit.png",
-      "position" : [8.39, 1.75]
-    }
-  ],
+
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "midiT8blocks.png"
+  "blockImage" : "test.png"
 }

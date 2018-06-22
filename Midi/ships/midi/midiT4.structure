@@ -3,20 +3,10 @@
     "shipUpgrades" : {
       "capabilities" : ["teleport", "planetTravel", "systemTravel"],
       "maxFuel" : 1000,
-      "crewSize" : 4
+      "crewSize" : 12
     }
   },
-  "backgroundOverlays" : [
-    {
-      "image" : "midiT4.png",
-      "position" : [7, 11.5],
-      "fullbright" : true
-    },
-    {
-      "image" : "midiT4lit.png",
-      "position" : [7, 11.5]
-    }
-  ],
+
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "midiT4blocks.png"
+  "blockImage" : "test.png"
 }
