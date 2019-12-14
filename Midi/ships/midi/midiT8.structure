@@ -7,6 +7,18 @@
     }
   },
 
+  "backgroundOverlays" : [
+    {
+      "image" : "ship.png",
+      "position" : [0, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "ship2.png",
+      "position" : [0, 0]
+    }
+  ],
+
   "blockKey" : "blockKey.config:blockKey",
-  "blockImage" : "test.png"
+  "blockImage" : "avianT3blocks.png"
 }
