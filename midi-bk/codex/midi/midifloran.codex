@@ -1,0 +1,13 @@
+{
+	"id" : "mididiary3",
+	"title" : "Midi's Log 03",
+	"description" : "Deep Rooted Instincts",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "OK, no offense to Nunu, but Florans freak me out. Not cuz they're plants, and not cuz they hiss, but because they don't really seem to care about life, y'know? They're totally cool with eating other people, using their skin to make leather and bones to make furniture.", "Ester says they value tradition but not history. That makes no sense. If you don't keep track of history, how do you know your traditions haven't changed?", "Anywho, I'm sick of these guys trying to eat me. I'm done this part of my quest is over, cuz I'm ready to leaf this place behind."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}

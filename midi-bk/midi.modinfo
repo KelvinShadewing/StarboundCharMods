@@ -1,0 +1,6 @@
+{
+ "name" : "Midi",
+ "version" : "Beta v. Cheerful Giraffe"
+ "path" : ".",
+ "dependencies" : []
+ }

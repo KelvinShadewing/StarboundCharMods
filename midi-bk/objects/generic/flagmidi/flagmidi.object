@@ -1,0 +1,46 @@
+{
+  "objectName" : "flagmidi",
+  "colonyTags" : ["midi"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "teleportMarker",
+  "price" : 70,
+  "radioMessagesOnPickup" : [ "pickupflag" ],
+  
+  "description" : "Meh, it works.",
+  "shortdescription" : "Midi's Flag",
+  "race" : "midi",
+  "apexDescription" : "A weird crystal. I can use this as a waypoint for teleportation.",
+  "avianDescription" : "Despite its color difference, this crystal has a similar composition to avos crystals. I can use it to bookmark teleportation.",
+  "floranDescription" : "Issss pretty cryssstal for bookmarksss.",
+  "glitchDescription" : "Observant. The frequency emitted by this crystal allows it to be bookmarked for teleportation.",
+  "humanDescription" : "This big crystal looks really rad. I can also bookmark it for teleports.",
+  "hylotlDescription" : "This crystal can act as a way point, enabling me to return to this point using a teleporter.",
+  "novakidDescription" : "I can bookmark this crystal for quick teleportin'.",
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+  "inventoryIcon" : "flagmidiicon.png",
+  "orientations" : [
+    {
+      "image" : "flagmidi.png:default.<frame>",
+      "flipImages" : true,
+      "direction" : "left",
+      "imagePosition" : [-17, 0],
+      "frames" : 12,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "image" : "flagmidi.png:default.<frame>",
+      "direction" : "right",
+      "imagePosition" : [1, 0],
+      "frames" : 12,
+      "animationCycle" : 1.0,
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+  //"soundEffect" : "/sfx/objects/flag_flap_loop.ogg"
+}

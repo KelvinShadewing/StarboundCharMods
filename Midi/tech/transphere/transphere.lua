@@ -145,12 +145,12 @@ function updateRotationFrame(dt)
 
   -- Rotation frames for the ball are given as one *half* rotation so two
   -- full cycles of each of the ball frames completes a total rotation.
-  local rotationFrame = math.floor(self.angle / (math.pi * 2) * self.ballFrames) % self.ballFrames
-  animator.setGlobalTag("rotationFrame", -rotationFrame + 7)
+  local rotationFrame = math.floor(self.angle / (math.pi) * self.ballFrames) % self.ballFrames
+  animator.setGlobalTag("rotationFrame", -rotationFrame + 3)
 end
 
 function updateTransformFade(dt)
-  
+
 end
 
 function positionOffset()

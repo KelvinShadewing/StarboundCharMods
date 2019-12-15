@@ -1,0 +1,13 @@
+{
+	"id" : "kholu",
+	"title" : "About the Kholu",
+	"description" : "We're a Nutty Bunch",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "I'm not too good at this scholarly stuff since I never went to a real school myself, but I'll give it a whirl.\n\nThe Kholu are a squirrel-like race from Kyroda. We have probably the best magic and agility, but that's mainly due to how in the First Era, several other races would hunt us for food. We're super good climbers and like to live in treetop cabins.", "Our houses are topped with preserved leaves mixed in with still-living branches to help our villages blend into the forest. The trees we live in are still very much alive, using natural Kholu magic to make them stronger so they can survive us burrowing into the trunks to make stairs and lifts going between the ground and the tops. There's also lots of rope bridges and boardwalks between houses.", "Like I said before, Kholu are really good at magic. We can channel our magic into other objects, enchanting them with our natural affinities. For myself, having a bomb affinity, that means I can turn other objects into bombs by holding them. Most kholu will learn elemental magic for defense and for empowering the trees we live in.", "Affinity magic is a range of spells that one is born naturally best at. Thaumatologists theorize that everyone has a magic affinity, even if they go their whole lives never learning magic, and some can use it without any study or training at all. In fact, I learned mine... Actually, I don't like to think about how I learned mine.\n\nFor some, the affinity is passive, like shielding against certain hazards, or even more rare ones like water breathing. Affinities aren't limited to Kholu, either.", "That's all I can really say. Like I said, I never went to a real school, so I don't even know much about our history. But in the event I never make it back to Kyroda, maybe someone else can use this as a starting point.\n\n        -Midi Waffle, First Kholu in Space" 
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}

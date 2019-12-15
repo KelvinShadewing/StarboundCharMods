@@ -45,5 +45,5 @@
   "energyCost" : 0,
 
   "ballRadius" : 1,
-  "ballFrames" : 8
+  "ballFrames" : 4
 }

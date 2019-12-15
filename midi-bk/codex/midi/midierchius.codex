@@ -1,0 +1,13 @@
+{
+	"id" : "mididiary2",
+	"title" : "Midi's Log 02",
+	"description" : "This Horror of Mine",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "Now I've been in my fair share of haunted, occupied, infested, or otherwise filled with danger mines, but honestly, I've never seen the ore itself fighting back. Well, there was that one time, but that was a warlock with golems, so that doesn't count.\n\nThose poor guys got locked down so they couldn't even call for help. Honestly, why? Did someone honestly think the company did something wrong by digging too deep?", "No one's gonna think they put that monster down there or anything, so what's the big deal? They should have sent help to destroy that thing. Heck, they could have looked like heroes for stopping it and exposing the danger to the universe. Big companies have the worst PR, I swear.", "Anyway, the miners were thankful and let me take a few crystals to fix my ship with. I hope those guys tell everyone about that monster and really give that company a bad day. They deserve it after letting so many people get turned into mutant zombies.", "So now I can go back to Ester and help her fight this Ruin thing. As much as I'd rather get home, I don't mind taking this quest. If there's a monster out there that can rip planets apart, I have to kill it before it finds Kyroda, if it hasn't already."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}
