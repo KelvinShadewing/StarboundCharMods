@@ -2,8 +2,8 @@
   "kind" : "midi",
 	"charCreationTooltip" : {
 	"title" : "Midi",
-	"subTitle" : "O2",
-	"description" : "A displaced Kholu from Kyroda searching the stars for a way home.",
+	"subTitle" : "Waffle",
+	"description" : "A displaced kholu from Kyroda searching the stars for a way home.",
 	"humanoidConfig" : "/species/midinoid.config"
   },
   "nameGen" : [ "/species/midimalenamegen.config:names", "/species/midifemalenamegen.config:names" ],

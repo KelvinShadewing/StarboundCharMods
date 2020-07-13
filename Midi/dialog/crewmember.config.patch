@@ -1,0 +1,61 @@
+[
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/offer/huntershadewing/default",
+		"value": [
+			"...",
+			"*ears perk*",
+			"*sniffs*",
+			"*head tilts*"
+
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/offer/huntershadewing/midi",
+		"value": [
+			"Midi, it is so good to see you again. Let us continue our search for Kyroda."
+
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/roleDescription/huntershadewing/default",
+		"value": [
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/roleDescription/huntershadewing/midi",
+		"value": [
+			"You are my brother, Midi. I will always be by your side."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/respawned/huntershadewing/default",
+		"value": [
+			"*growls*",
+			"...",
+			"*hiff*"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/unfollow/huntershadewing/default",
+		"value": [
+			"...",
+			"*nods*"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/dialog/crewmember/unfollow/huntershadewing/midi",
+		"value": [
+			"I will be here.",
+			"Be careful.",
+			"Please do not be long."
+		]
+	}
+]

@@ -1,0 +1,180 @@
+{
+  "type" : "huntershadewingtype",
+  "baseType" : "crewmember",
+  
+  "scriptConfig" : {
+    "crew" : {
+      "role" : {
+        "type" : "soldier",
+        "name" : "Soldier",
+        "field" : "Security"
+      },
+
+      "uniformSlots" : []
+    }
+  },
+
+  "items" : {
+    "default" : [
+			[0,
+				[
+					{
+						"primary" : [ "hunterclaws" ],
+						"sheathedprimary" : [ "hunterclaws" ]
+					},
+					{
+						"primary" : [ "hunterclaws" ],
+						"sheathedprimary" : [ "hunterclaws" ]
+					}
+				]
+			]
+		]
+	},
+  
+	"dialog":{
+		"crewmember" : {
+			"offer" : {
+				"huntershadewing" : {
+					"default" : [
+						"...",
+						"*ears perk*",
+						"*sniffs*",
+						"*head tilts*"
+					],
+					"midi" : [
+						"Midi, it is so good to see you again. Let us continue our search for Kyroda."
+					]
+				}
+			},
+			"roleDescription" : {
+				"huntershadewing" : {
+					"default" : [
+						"..."
+					],
+					"midi" : [
+						"You are my brother, Midi. I will always be by your side."
+					]
+				}
+			},
+			"respawned" : {
+				"huntershadewing" : {
+					"default" : [
+						"*growls*",
+						"...",
+						"*hiff*"
+					]
+				}
+			},
+			"unfollow" : {
+				"huntershadewing" : {
+					"default" : [
+						"...",
+						"*nods*"
+					],
+					"midi" : [
+						"I will be here.",
+						"Be careful.",
+						"Please do not be long."
+					]
+				}
+			},
+			"follow" : {
+				"huntershadewing" : {
+					"default" : [
+						"*nods*",
+						"*sniffs*",
+						"*rew*"
+					],
+					"midi" : [
+						"Welcome back.",
+						"Do you need me?",
+						"I am glad to be with you again."
+					]
+				}
+			},
+			"cantreach" : {
+				"huntershadewing" : {
+					"default" : [
+						"*hiffs*",
+						"*growls*"
+					],
+					"midi" : [
+						"Where have you gone?",
+						"Midi... please do not leave me again...",
+						"Midi! I have lost sight of you.",
+						"I cannot reach you.",
+						"Why are my wings not working?!"
+					]
+				}
+			}
+		},
+		
+		"follower" : {
+			"attack" : {
+				"huntershadewing" : {
+					"default" : [
+						"*RAWR!*",
+						"*growls*",
+						"Enough...",
+						"...",
+						"*bares fangs*"
+					]
+				}
+			},
+			"join" : {
+				"huntershadewing" : {
+					"default" : [
+						"*looks at you*"
+					],
+					"midi" : [
+						"Midi! Over here!",
+						"There you are!",
+						"*REW!*"
+					]
+				}
+			},
+			"returnFromCombat" : {
+				"huntershadewing" : {
+					"default" : [
+						"*hiff*",
+						"...",
+						"*growl*"
+					],
+					"midi" : [
+						"*hiff*",
+						"Are you well?",
+						"That is done."
+					]
+				}
+			},
+			"wait" : {
+				"huntershadewing" : {
+					"default" : [
+						"*nods*",
+						"...",
+						"*hiff*"
+					],
+					"midi" : [
+						"Be careful.",
+						"I will be here.",
+						"*nods*",
+						"Please do not be long."
+					]
+				}
+			},
+			"returnFromWait" : {
+				"huntershadewing" : {
+					"default" : [
+						"*nods*",
+						"..."
+					],
+					"midi" : [
+						"Let us go.",
+						"*nods*",
+						"After you."
+					]
+				}
+			}
+		}
+	}
+}
