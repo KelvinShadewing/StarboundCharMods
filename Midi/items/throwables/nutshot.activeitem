@@ -42,7 +42,7 @@
     "fireType" : "auto",
     "projectileType" : "nutshot",
     "projectileParameters" : {
-      "speed" : [65, 65]
+      "speed" : [64, 64]
     },
     "stances" : {
       "idle" : {

@@ -18,6 +18,7 @@
       { "item" : "flagmidi" },
       { "item" : "nutbomb" },
       { "item" : "nutshot" },
+	{ "item" : "nutfire" },
 	    
 // Anvil
       { "item" : "humantier1head" },

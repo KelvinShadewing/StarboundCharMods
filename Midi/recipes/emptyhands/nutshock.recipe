@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "nutbomb", "count" : 1 },
+    { "item" : "staticcell", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "nutshock",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}

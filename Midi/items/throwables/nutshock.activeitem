@@ -1,11 +1,11 @@
 {
-  "itemName" : "nutbomb",
+  "itemName" : "nutshock",
   "price" : 500,
-  "inventoryIcon" : "nutbomb.png",
+  "inventoryIcon" : "nutshock.png",
   "maxStack" : 1,
   "rarity" : "Uncommon",
-  "description" : "Midi's default bomb.",
-  "shortdescription" : "Acorn Bomb",
+  "description" : "Midi's shock bomb.",
+  "shortdescription" : "Acorn Shock Bomb",
   "level" : 1,
   "category" : "uniqueWeapon",
   "itemTags" : ["acorn"],
@@ -34,14 +34,14 @@
     "scripts" : ["/items/active/weapons/ranged/gunfire.lua"],
     "class" : "GunFire",
     "fireTime" : 0.2,
-    "baseDps" : 50,
+    "baseDps" : 64,
     "energyUsage" : 30,
     "inaccuracy" : 0.05,
     "projectileCount" : 1,
     "fireType" : "auto",
-    "projectileType" : "nutbomb",
+    "projectileType" : "nutshock",
     "projectileParameters" : {
-      "speed" : [32, 32]
+      "speed" : [48, 48]
     },
     "stances" : {
       "idle" : {
