@@ -1,16 +1,16 @@
 [
 	{ "op" : "add",
-		"path" : "/speciesShips/midi",
+		"path" : "/speciesShips/avian",
 		"value" : [
-			"/ships/midi/midiT0.structure",
-		  "/ships/midi/midiT1.structure",
-		  "/ships/midi/midiT2.structure",
-		  "/ships/midi/midiT3.structure",
-		  "/ships/midi/midiT4.structure",
-		  "/ships/midi/midiT5.structure",
-		  "/ships/midi/midiT6.structure",
-		  "/ships/midi/midiT7.structure",
-		  "/ships/midi/midiT8.structure"
+			"/ships/avian/avianT0.structure",
+		  "/ships/avian/avianT1.structure",
+		  "/ships/avian/avianT2.structure",
+		  "/ships/avian/avianT3.structure",
+		  "/ships/avian/avianT4.structure",
+		  "/ships/avian/avianT5.structure",
+		  "/ships/avian/avianT6.structure",
+		  "/ships/avian/avianT7.structure",
+		  "/ships/avian/avianT8.structure"
 		]
 	}
 ]
