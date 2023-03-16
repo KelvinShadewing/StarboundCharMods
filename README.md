@@ -2,7 +2,7 @@
 
 ## License
 
-All characters and assets originally created by me are open under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). You need not release your entire project under this license to use these characters; only assets made of them or modifications to existing assets of them.
+All characters and assets originally created by me are open under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 All other content is the property of their respective owners. Standard Starbound assets that have yet to be replaced are left in for compatability, and should not be used outside of Starbound without the game's developer's permission.
 
