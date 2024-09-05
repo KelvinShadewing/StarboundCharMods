@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/midi",
+		"value" : {
+			"aiFrames" : "midiAI.png",
+			"portraitFrames" : "portraits/midiportrait.png",
+			"staticFrames" : "staticmidi.png"	
+		}
+	}
+]

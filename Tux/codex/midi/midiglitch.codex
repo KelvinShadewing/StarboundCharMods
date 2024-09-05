@@ -1,0 +1,13 @@
+{
+	"id" : "mididiary6",
+	"title" : "Midi's Log 06",
+	"description" : "Do Glitches Dream of Robotic Snuggets?",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "You'd think that a race of robots would be better with machinery. I have no clue how these guys got into space, honestly. But Glitches are pretty cool all the same. I've realized that the way they talk actually makes them the easiest to listen to, not to mention read.\n\nI mean, think about it. Text has no tone, right? When you read something, you read it the way you want to read it.", "Glitches don't have this problem. If they say they're sincere, then they're sincere. If they're being sarcastic, they say they're sarcastic. I love it, cuz somethimes when I'm reading, I can't tell when people are being sarcastic and always take it literally. I think more people should be like Glitches when it comes to writing.", "As for the whole medival style thing, it kinda makes sense, too. I mean, they're robots. They don't make waste or have to worry about germs, so they don't need to worry about living conditions as much. That probably came out sounding worse than I meant it to sound. I need to get better at expressing myself, too. I may be organic, but compared to the Glitches, I'm way more rusty."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}

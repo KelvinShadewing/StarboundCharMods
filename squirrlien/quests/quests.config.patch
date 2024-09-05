@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/squirrel",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/squirrel",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/avian",
+		"value" : [
+			"/ships/avian/avianT0.structure",
+		  "/ships/avian/avianT1.structure",
+		  "/ships/avian/avianT2.structure",
+		  "/ships/avian/avianT3.structure",
+		  "/ships/avian/avianT4.structure",
+		  "/ships/avian/avianT5.structure",
+		  "/ships/avian/avianT6.structure",
+		  "/ships/avian/avianT7.structure",
+		  "/ships/avian/avianT8.structure"
+		]
+	}
+]

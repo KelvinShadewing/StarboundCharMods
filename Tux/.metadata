@@ -1,0 +1,11 @@
+{
+  "tags" : "Species",
+  "author" : "Kelvin SHadewing",
+  "description" : "Play as Midi from Kyrodian Legends.",
+  "friendlyName" : "Midi Waffle",
+  "link" : "",
+  "name" : "Midi Waffle",
+  "path" : ".",
+  "steamContentId" : "",
+  "version" : "1"
+}

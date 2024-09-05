@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 1000 },
+    { "item" : "corefragmentore", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "nutbomb",
+    "count" : 1
+  },
+  "groups" : [ "plain", "all" ]
+}
