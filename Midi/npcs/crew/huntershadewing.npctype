@@ -18,12 +18,8 @@
     "default" : [
       [0, [
           {
-            "primary" : [ "hunterorbs" ],
-            "sheathedprimary" : [ "hunterorbs" ]
-          },
-          {
-            "primary" : [ "hunterorbs" ],
-            "sheathedprimary" : [ "hunterorbs" ]
+            "primary" : [ "huntorb" ],
+            "sheathedprimary" : [ "huntorb" ]
           }
         ] ]
     ]

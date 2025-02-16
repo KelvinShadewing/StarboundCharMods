@@ -1,0 +1,13 @@
+{
+	"id" : "huntershadewingdiary",
+	"title" : "Hunter's Log 01",
+	"description" : "Escape from Planet Earth",
+	"icon" : "midicover.png",
+	"contentPages" : [
+    "Will fill this in later."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 0
+	}
+}

@@ -1,3 +1,4 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/midi", "value" : [ "protectorate1", "protectorate2", "mididiary" ] }
+	{ "op" : "add", "path" : "/defaultCodexes/midi", "value" : [ "protectorate1", "protectorate2", "mididiary" ] },
+	{ "op" : "add", "path" : "/defaultCodexes/huntershadewing", "value" : [ "protectorate1", "protectorate2", "huntershadewingdiary" ] }
 ]
