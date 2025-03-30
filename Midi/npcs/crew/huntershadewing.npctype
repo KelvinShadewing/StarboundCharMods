@@ -7,7 +7,15 @@
       "role" : {
         "type" : "soldier",
         "name" : "Soldier",
-        "field" : "Security"
+        "field" : "Security",
+
+        "benefits" : [
+          {
+            "type" : "ShipUpgradeBenefit",
+            "property" : "shipSpeed",
+            "value" : 16
+          }
+        ]
       },
 
       "uniformSlots" : []
@@ -18,8 +26,8 @@
     "default" : [
       [0, [
           {
-            "primary" : [ "huntorb" ],
-            "sheathedprimary" : [ "huntorb" ]
+            "primary" : [ "hunterclaws" ],
+            "sheathedprimary" : [ "hunterclaws" ]
           }
         ] ]
     ]
@@ -28,7 +36,7 @@
 	"dialog":{
 		"crewmember" : {
 			"offer" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"...",
 						"*ears perk*",
@@ -41,7 +49,7 @@
 				}
 			},
 			"roleDescription" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"..."
 					],
@@ -51,7 +59,7 @@
 				}
 			},
 			"respawned" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*growls*",
 						"...",
@@ -60,7 +68,7 @@
 				}
 			},
 			"unfollow" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"...",
 						"*nods*"
@@ -73,7 +81,7 @@
 				}
 			},
 			"follow" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*nods*",
 						"*sniffs*",
@@ -87,7 +95,7 @@
 				}
 			},
 			"cantreach" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*hiffs*",
 						"*growls*"
@@ -105,7 +113,7 @@
 		
 		"follower" : {
 			"attack" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*RAWR!*",
 						"*growls*",
@@ -116,7 +124,7 @@
 				}
 			},
 			"join" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*looks at you*"
 					],
@@ -128,7 +136,7 @@
 				}
 			},
 			"returnFromCombat" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*hiff*",
 						"...",
@@ -142,7 +150,7 @@
 				}
 			},
 			"wait" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*nods*",
 						"...",
@@ -157,7 +165,7 @@
 				}
 			},
 			"returnFromWait" : {
-				"huntershadewing" : {
+				"default" : {
 					"default" : [
 						"*nods*",
 						"..."

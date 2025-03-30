@@ -25,12 +25,12 @@
     "class" : "MeleeSlash",
 
     "fireTime" : [1, 1],
-    "baseDps" : [6, 6],
+    "baseDps" : [16, 16],
     "damageConfig" : {
       "damageSourceKind" : "shortsword",
       "statusEffects" : [ ],
       "knockbackMode" : "aim",
-      "knockback" : 10,
+      "knockback" : 24,
       "timeoutGroup" : "primary"
     },
     "stances" : {
@@ -44,7 +44,7 @@
       },
       "windup" : {
         "hold" : true,
-        "duration" : 0.35,
+        "duration" : 0.0,
         "armRotation" : -15,
         "weaponRotation" : -60,
         "weaponOffset" : [0, 2.25],
